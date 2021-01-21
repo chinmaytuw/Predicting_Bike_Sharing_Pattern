@@ -5,7 +5,7 @@ As a bike sharing company we need to predict how many bikes we will need in the 
   - If we have a higher supply of bikes and lower demand, it will add to our OPEX.
   - If we have a lower supply than demand, then we loose on profits.
   
-![Bike Sharing](.assets/bikes.png)
+![Bike Sharing](./assets/bikes.png)
 
 
 # Design Overview:
