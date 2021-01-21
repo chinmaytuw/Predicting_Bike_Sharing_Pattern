@@ -9,7 +9,15 @@ As a bike sharing company we need to predict how many bikes we will need in the 
 
 
 # Design Overview:
-We will build a neural network from scratch and implement feedforward and backpropogation using stochastic gradient descent. 
+We will build a neural network from __scratch__ and implement __feedforward__ and __backpropogation__ using __stochastic gradient descent__. 
 Later we will test out the network's efficacy on unseen data.
+
+# Libraries needed:
+- Numpy
+- Pandas
+- Matplotlib
+
+# Results:
+
 
 
