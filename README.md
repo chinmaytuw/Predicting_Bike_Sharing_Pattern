@@ -18,6 +18,7 @@ Later we will test out the network's efficacy on unseen data.
 - Matplotlib
 
 # Results:
-
+Below is a plot comparing actual Vs predictions.
+![Results](./assets/results.png)
 
 
